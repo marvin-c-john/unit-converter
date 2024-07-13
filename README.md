@@ -1,7 +1,8 @@
 # Unit-converter
 
 
-<img width="315" alt="Bildschirmfoto 2024-07-07 um 13 13 39" src="https://github.com/user-attachments/assets/c09a29a7-1395-48b8-926f-255502711467">
+![Design ohne Titel](https://github.com/user-attachments/assets/5b410edd-fdf6-4e78-a498-b79b2e887de8)
+
 
 
 
