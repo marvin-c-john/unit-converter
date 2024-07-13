@@ -37,7 +37,7 @@ User-Friendly Interface: SwiftUI ensures a clean and responsive design.
 
 ![Simulator Screenshot - iPhone 15 - 2024-07-12 at 21 08 03](https://github.com/user-attachments/assets/5ad53f92-5526-4d71-9656-7515f0eca3fa)
 
-# The App in Dark Mode:
+# App in Dark Mode:
 
 ![Simulator Screenshot - iPhone 15 - 2024-07-12 at 21 10 29](https://github.com/user-attachments/assets/c01598fc-aea9-4042-a480-5ddaab4f8fa8)
 
